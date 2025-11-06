@@ -1,0 +1,11 @@
+{
+  "title": "kciter's talks",
+  "subtitle": "",
+  "publishDir": "public",
+  "slidesDir": "slides",
+  "theme": {
+    "primaryColor": "#007bff",
+    "progressColor": "#A020F0",
+    "fontFamily": "system-ui, -apple-system, sans-serif"
+  }
+}
