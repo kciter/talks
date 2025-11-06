@@ -3,6 +3,7 @@
   "subtitle": "",
   "publishDir": "public",
   "slidesDir": "slides",
+  "baseUrl": "/talks",
   "theme": {
     "primaryColor": "#007bff",
     "progressColor": "#A020F0",
