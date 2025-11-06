@@ -1,0 +1,34 @@
+{
+  "slides": [
+    {
+      "name": "problem-solving-ai-agent",
+      "title": "문제 해결 관점에서의 AI 에이전트 활용법",
+      "pageCount": 63,
+      "createdAt": "2025-11-01",
+      "sha256": "62a876c10a0814cd9ab7702a40fdcfb0e4008f7da11d5e7ecbe7fe9d7cb87184"
+    },
+    {
+      "name": "grid-based-editor",
+      "title": "그리드 기반 에디터 / 빌더 구현기",
+      "pageCount": 89,
+      "createdAt": "2025-08-23",
+      "sha256": "8e7494faeb016e9ebc56b93d867480c7c2fe77e3a380b78288138fde54f0b39e",
+      "description": ""
+    },
+    {
+      "name": "railway-oriented-programming-and-spring",
+      "title": "레일웨이 주도 프로그래밍과 Spring",
+      "pageCount": 90,
+      "createdAt": "2025-06-28",
+      "sha256": "ccaf4dc45a10abfff95de422e2f74e7c17783ba74c6ded11b2bd1f5d1bc2d7df"
+    },
+    {
+      "name": "infcon2023",
+      "title": "소프트웨어 설계와 추상적, 구조적 사고",
+      "pageCount": 185,
+      "createdAt": "2023-08-15",
+      "sha256": "e16f024ab2fbea71708aa2c39bc970b231033cad95f00e438f1eaa542adbdfc6"
+    }
+  ],
+  "updatedAt": "2025-11-06T18:13:20.572Z"
+}
