@@ -23,12 +23,54 @@
       "sha256": "ccaf4dc45a10abfff95de422e2f74e7c17783ba74c6ded11b2bd1f5d1bc2d7df"
     },
     {
+      "name": "destroy-for-software",
+      "title": "소프트웨어 파괴의 미학",
+      "pageCount": 73,
+      "createdAt": "2024-10-12",
+      "sha256": "e0d690eef6ab849d15b3703e7639959cad69e54d169eae4e15a06fe67b563ef7"
+    },
+    {
+      "name": "kotlin-script",
+      "title": "Kotlin Script 활용하기",
+      "pageCount": 37,
+      "createdAt": "2024-06-29",
+      "sha256": "fb652b176f86db1afed665d5296cf788983e70d34b0122c678e86f818b73c0be"
+    },
+    {
       "name": "infcon2023",
       "title": "소프트웨어 설계와 추상적, 구조적 사고",
       "pageCount": 185,
       "createdAt": "2023-08-15",
       "sha256": "e16f024ab2fbea71708aa2c39bc970b231033cad95f00e438f1eaa542adbdfc6"
+    },
+    {
+      "name": "deep-dive-into-vuejs",
+      "title": "Deep dive into Vue.js",
+      "pageCount": 62,
+      "createdAt": "2018-12-11",
+      "sha256": "a6c81ad31a51aafbbdb1a962bcbb67383e387a5be079097aa681c1b34ff76f49"
+    },
+    {
+      "name": "letswift17",
+      "title": "Metal 기반 특별한 UI/UX 제공하기",
+      "pageCount": 67,
+      "createdAt": "2017-09-23",
+      "sha256": "223bc764dc5e563817754dd40e52a9f754f321beda839644d4e094b4ca8aa2ba"
+    },
+    {
+      "name": "reactive-programming-with-swift",
+      "title": "Reactive Programming With Swift",
+      "pageCount": 98,
+      "createdAt": "2017-04-28",
+      "sha256": "90726a74c571c4a3c5bebb1cbc21b802a3dc761152c06613fefc02e89bd0ab18"
+    },
+    {
+      "name": "cpp-code-quality",
+      "title": "C++ 코드 품질 관리 비법",
+      "pageCount": 187,
+      "createdAt": "2014-04-11",
+      "sha256": "4d400fbd94243bd8e606b594d85e7c38d323590671b864b75c64ec82852fd87c"
     }
   ],
-  "updatedAt": "2025-11-07T14:47:55.976Z"
+  "updatedAt": "2025-11-07T16:41:46.673Z"
 }
