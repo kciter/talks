@@ -5,7 +5,8 @@
       "title": "문제 해결 관점에서의 AI 에이전트 활용법",
       "pageCount": 63,
       "createdAt": "2025-11-01",
-      "sha256": "62a876c10a0814cd9ab7702a40fdcfb0e4008f7da11d5e7ecbe7fe9d7cb87184"
+      "sha256": "62a876c10a0814cd9ab7702a40fdcfb0e4008f7da11d5e7ecbe7fe9d7cb87184",
+      "description": "Devcon 2025"
     },
     {
       "name": "grid-based-editor",
@@ -13,56 +14,63 @@
       "pageCount": 89,
       "createdAt": "2025-08-23",
       "sha256": "8e7494faeb016e9ebc56b93d867480c7c2fe77e3a380b78288138fde54f0b39e",
-      "description": ""
+      "description": "FEConf 2025"
     },
     {
       "name": "railway-oriented-programming-and-spring",
-      "title": "레일웨이 주도 프로그래밍과 Spring",
+      "title": "레일웨이 지향 프로그래밍과 Spring",
       "pageCount": 90,
       "createdAt": "2025-06-28",
-      "sha256": "ccaf4dc45a10abfff95de422e2f74e7c17783ba74c6ded11b2bd1f5d1bc2d7df"
+      "sha256": "ccaf4dc45a10abfff95de422e2f74e7c17783ba74c6ded11b2bd1f5d1bc2d7df",
+      "description": "스프링캠프 2025"
     },
     {
       "name": "destroy-for-software",
       "title": "소프트웨어 파괴의 미학",
       "pageCount": 73,
       "createdAt": "2024-10-12",
-      "sha256": "e0d690eef6ab849d15b3703e7639959cad69e54d169eae4e15a06fe67b563ef7"
+      "sha256": "e0d690eef6ab849d15b3703e7639959cad69e54d169eae4e15a06fe67b563ef7",
+      "description": "Devcon 2024"
     },
     {
       "name": "kotlin-script",
       "title": "Kotlin Script 활용하기",
       "pageCount": 37,
       "createdAt": "2024-06-29",
-      "sha256": "fb652b176f86db1afed665d5296cf788983e70d34b0122c678e86f818b73c0be"
+      "sha256": "fb652b176f86db1afed665d5296cf788983e70d34b0122c678e86f818b73c0be",
+      "description": "KotlinConf'24"
     },
     {
       "name": "infcon2023",
       "title": "소프트웨어 설계와 추상적, 구조적 사고",
       "pageCount": 185,
       "createdAt": "2023-08-15",
-      "sha256": "e16f024ab2fbea71708aa2c39bc970b231033cad95f00e438f1eaa542adbdfc6"
+      "sha256": "e16f024ab2fbea71708aa2c39bc970b231033cad95f00e438f1eaa542adbdfc6",
+      "description": "INFCON 2023"
     },
     {
       "name": "deep-dive-into-vuejs",
       "title": "Deep dive into Vue.js",
       "pageCount": 62,
       "createdAt": "2018-12-11",
-      "sha256": "a6c81ad31a51aafbbdb1a962bcbb67383e387a5be079097aa681c1b34ff76f49"
+      "sha256": "a6c81ad31a51aafbbdb1a962bcbb67383e387a5be079097aa681c1b34ff76f49",
+      "description": "Vuetiful Korea 6th Meetup"
     },
     {
       "name": "letswift17",
       "title": "Metal 기반 특별한 UI/UX 제공하기",
       "pageCount": 67,
       "createdAt": "2017-09-23",
-      "sha256": "223bc764dc5e563817754dd40e52a9f754f321beda839644d4e094b4ca8aa2ba"
+      "sha256": "223bc764dc5e563817754dd40e52a9f754f321beda839644d4e094b4ca8aa2ba",
+      "description": "LetSwift 17"
     },
     {
       "name": "reactive-programming-with-swift",
       "title": "Reactive Programming With Swift",
       "pageCount": 98,
       "createdAt": "2017-04-28",
-      "sha256": "90726a74c571c4a3c5bebb1cbc21b802a3dc761152c06613fefc02e89bd0ab18"
+      "sha256": "90726a74c571c4a3c5bebb1cbc21b802a3dc761152c06613fefc02e89bd0ab18",
+      "description": "Swift Korea Meetup"
     },
     {
       "name": "cpp-code-quality",
@@ -72,5 +80,5 @@
       "sha256": "4d400fbd94243bd8e606b594d85e7c38d323590671b864b75c64ec82852fd87c"
     }
   ],
-  "updatedAt": "2025-11-07T16:41:46.673Z"
+  "updatedAt": "2025-11-08T15:02:09.120Z"
 }

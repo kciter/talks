@@ -1,7 +1,8 @@
 {
   "name": "railway-oriented-programming-and-spring",
-  "title": "레일웨이 주도 프로그래밍과 Spring",
+  "title": "레일웨이 지향 프로그래밍과 Spring",
   "pageCount": 90,
   "createdAt": "2025-06-28",
-  "sha256": "ccaf4dc45a10abfff95de422e2f74e7c17783ba74c6ded11b2bd1f5d1bc2d7df"
+  "sha256": "ccaf4dc45a10abfff95de422e2f74e7c17783ba74c6ded11b2bd1f5d1bc2d7df",
+  "description": "스프링캠프 2025"
 }
